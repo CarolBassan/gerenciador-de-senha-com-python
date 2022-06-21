@@ -1,1 +1,1 @@
-# gerenciador-de-senha-com-pyton
+# gerenciador-de-senha-com-python
